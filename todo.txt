@@ -6,3 +6,9 @@ hay bale -> decomposing hay bale (multiblock)
 fish farm (multiblock)
 fertilizer distributor (normal and netherwart)
 some way to speed up sugarcane growth
+Greenhouse
+
+ores:
+potash (nether, under lava)
+magnesite (overworld)
+saltpeter (end)

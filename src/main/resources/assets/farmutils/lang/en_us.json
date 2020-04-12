@@ -1,3 +1,6 @@
 {
-  "item.farmutils.fertilizer": "Basic Fertilizer"
+  "block.farmutils.apatite_ore": "Apatite Ore",
+
+  "item.farmutils.fertilizer": "Basic Fertilizer",
+  "item.farmutils.apatite_ore": "Apatite Ore"
 }
