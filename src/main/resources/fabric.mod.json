@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "farmutils",
+  "version": "0.1.0",
+  "name": "Farmutils",
+  "description": "An assortment of farming utilities.",
+  "authors": [
+    "SuperCoder79"
+  ],
+  "license": "LGPLv3",
+  "icon": "assets/farmutils/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "supercoder79.farmutils.Farmutils"
+    ],
+    "client": [
+      "supercoder79.farmutils.FarmutilsClient"
+    ]
+  },
+  "mixins": [
+    "farmutils.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.8.2+build.194",
+    "fabric": "*",
+    "minecraft": "1.15.2"
+  }
+}
