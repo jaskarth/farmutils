@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "farmutils:block/magnesite_ore" }
+  }
+}
